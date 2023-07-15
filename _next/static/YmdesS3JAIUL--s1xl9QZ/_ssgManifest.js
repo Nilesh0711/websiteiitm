@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcurrentpeople\u002F[id]","\u002Fformerpeople\u002F[id]","\u002Fpeople"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
